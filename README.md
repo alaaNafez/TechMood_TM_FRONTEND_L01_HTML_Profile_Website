@@ -1,18 +1,12 @@
-# Profile Website
+# Personal Profile Website
 
 A simple personal profile website built using HTML.
 
-## About the Project
+## Pages
 
-This project is a personal profile page that introduces my background, skills, and current learning goals as a Computer Science graduate and Frontend Developer.
-
-## Features
-
-* Personal profile and introduction
-* Profile image
-* List of technical skills
-* Skills level and goals table
-* Contact form
+* Home
+* About
+* Contact
 
 ## Skills
 
@@ -23,18 +17,10 @@ This project is a personal profile page that introduces my background, skills, a
 * Tailwind CSS
 * Git & GitHub
 
-## Project Structure
+## About the Project
 
-```text
-project/
-├── index.html
-└── assets/
-    └── images/
-        └── profile.jpg
-```
+This project is a personal profile website that introduces my background, skills, and learning goals as a Computer Science graduate and Frontend Developer.
 
 ## Author
 
 Alaa Nafez Al-Shopaki
-
-Computer Science Graduate | Frontend Developer
